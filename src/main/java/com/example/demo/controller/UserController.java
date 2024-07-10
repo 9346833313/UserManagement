@@ -31,4 +31,7 @@ public class UserController {
 		return null;
 
 	}
+	public ResponseEntity<?> update(){
+		return null;
+	}
 }
