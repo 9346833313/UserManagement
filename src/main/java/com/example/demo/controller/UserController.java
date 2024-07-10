@@ -12,23 +12,12 @@ import org.springframework.web.bind.annotation.RestController;
 public class UserController {
 
 	@PostMapping
-	public ResponseEntity<?> create() {
+	public ResponseEntity<?> save() {
 		return null;
 
 	}
 	
-	public void get( ) {
-		
-	}
-
-
-
-	@PostMapping
-	public ResponseEntity<?> delete() {
-		return null;
-
-	}
-
+	
 	
 
 
