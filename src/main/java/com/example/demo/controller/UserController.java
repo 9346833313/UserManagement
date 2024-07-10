@@ -20,6 +20,22 @@ public class UserController {
 	public ResponseEntity<?> add() {
 		return null;
 
+<<<<<<< HEAD
+=======
+	@GetMapping
+	public ResponseEntity<?> getMethod() {
+		return null;
+	}
+
+	@PostMapping
+	public ResponseEntity<?> getAll() {
+		return null;
+	}
+
+	public ResponseEntity<?> GetId() {
+
+		return null;
+>>>>>>> 5c05e3cdf1230bb274c92d36d8a27feaee4220b7
 	}
 
 }
