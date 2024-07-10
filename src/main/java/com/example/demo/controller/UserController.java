@@ -12,12 +12,11 @@ import org.springframework.web.bind.annotation.RestController;
 public class UserController {
 
 	@PostMapping
-	public ResponseEntity<?> createUser() {
+	public ResponseEntity<?> users() {
 		return null;
 
 	}
 
-	@GetMapping
 	public ResponseEntity<?> getAllUsers() {
 		return null;
 
@@ -29,5 +28,4 @@ public class UserController {
 
 	}
 
-	
 }
