@@ -17,7 +17,11 @@ public class UserController {
 
 	}
 
-	
+	@PostMapping
+	public ResponseEntity<?> grtUser() {
+		return null;
+
+	}
 
 
 
