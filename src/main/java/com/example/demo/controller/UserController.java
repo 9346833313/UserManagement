@@ -17,17 +17,16 @@ public class UserController {
 
 	}
 
-	
 	@GetMapping
 	public ResponseEntity<?> getMethod() {
 		return null;
 	}
+
 	@PostMapping
-
-
 	public ResponseEntity<?> getAll() {
 		return null;
 	}
+
 	public ResponseEntity<?> GetId() {
 
 		return null;
