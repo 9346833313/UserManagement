@@ -1,7 +1,7 @@
 package com.example.demo.controller;
 
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.GetMapping;
+
 import org.springframework.web.bind.annotation.PostMapping;
 
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -19,33 +19,10 @@ public class UserController {
 
 	
 
-	@GetMapping
-
-	public ResponseEntity<?> getAllUsers() {
-		return null;
-		
-	}
 
 
-	public ResponseEntity<?> get(){
-
-		return null;
-
-	}
-
-
-	public void hello() {
-	}
-	public void add( ) {
-}
 
 	
-
-
-	public ResponseEntity<?> update(){
-		return null;
-	}
-
 
 
 }
