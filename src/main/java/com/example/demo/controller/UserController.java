@@ -16,6 +16,10 @@ public class UserController {
 		return null;
 
 	}
+	@PostMapping
+	public ResponseEntity<?> add() {
+		return null;
 
+	}
 
 }
