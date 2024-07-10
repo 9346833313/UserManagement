@@ -19,7 +19,11 @@ public class UserController {
 
 
 
+	@PostMapping
+	public ResponseEntity<?> delete() {
+		return null;
 
+	}
 
 	
 
