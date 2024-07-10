@@ -12,19 +12,11 @@ import org.springframework.web.bind.annotation.RestController;
 public class UserController {
 
 	@PostMapping
-	public ResponseEntity<?> postmethod() {
+	public ResponseEntity<?> users() {
 		return null;
 
-	}
-	@PostMapping
-	public ResponseEntity<?> add() {
-		return null;
-	}
 
-	@PostMapping
-	public ResponseEntity<?> delete() {
-		return null;
 	}
-
+	
 
 }
