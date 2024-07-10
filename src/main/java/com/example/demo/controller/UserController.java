@@ -26,12 +26,5 @@ public class UserController {
 		
 	}
 
-	public ResponseEntity<?> get(){
-
-		return null;
-
-	}
-	public ResponseEntity<?> update(){
-		return null;
-	}
+	
 }
