@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class UserController {
 
 	@PostMapping
-	public ResponseEntity<?> createUser() {
+	public ResponseEntity<?> create() {
 		return null;
 
 	}
@@ -21,11 +21,6 @@ public class UserController {
 		
 	}
 
-	@PostMapping
-	public ResponseEntity<?> grtUser() {
-		return null;
-
-	}
 
 
 
