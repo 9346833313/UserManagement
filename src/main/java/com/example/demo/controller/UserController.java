@@ -17,21 +17,17 @@ public class UserController {
 
 	}
 
-	
-
 	@GetMapping
-
 	public ResponseEntity<?> getAllUsers() {
 		return null;
-		
+
 	}
 
-	public ResponseEntity<?> get(){
+	public ResponseEntity<?> get() {
 
 		return null;
 
 	}
-	public ResponseEntity<?> update(){
-		return null;
-	}
+
+	
 }
