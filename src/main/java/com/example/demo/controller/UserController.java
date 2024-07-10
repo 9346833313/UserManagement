@@ -30,7 +30,6 @@ public class UserController {
 	public ResponseEntity<?> GetId() {
 
 		return null;
-
 	}
 
 }
