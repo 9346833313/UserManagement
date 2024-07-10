@@ -19,7 +19,8 @@ public class UserController {
 	}
 	
 	@GetMapping
-	public ResponseEntity<?> getAllUsers(){
+	public ResponseEntity<?> get(){
 		return null;
 	}
+	
 }
