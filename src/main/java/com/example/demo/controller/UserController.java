@@ -20,10 +20,16 @@ public class UserController {
 	
 
 	@GetMapping
+
 	public ResponseEntity<?> getAllUsers() {
+		return null;
+		
+	}
+
+	public ResponseEntity<?> get(){
+
 		return null;
 
 	}
-	public void hello() {
-	}
+	
 }
