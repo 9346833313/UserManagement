@@ -16,10 +16,15 @@ public class UserController {
 		return null;
 
 	}
+<<<<<<< HEAD
 	
 	
 	@GetMapping
 	public ResponseEntity<?> getMethod() {
+=======
+	@PostMapping
+	public ResponseEntity<?> GetId() {
+>>>>>>> b302c8f313cfa7ccde3baeeacd0cc4e883bbf700
 		return null;
 
 	}
