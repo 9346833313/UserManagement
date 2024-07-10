@@ -15,4 +15,7 @@ public class UserController {
 		return null;
 
 	}
+	public void hello() {
+		
+	}
 }
