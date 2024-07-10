@@ -16,9 +16,10 @@ public class UserController {
 		return null;
 
 	}
-	
-	
-	
+	@PostMapping
+	public ResponseEntity<?> GetId() {
+		return null;
 
+	}
 
 }
