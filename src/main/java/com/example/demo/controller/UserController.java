@@ -26,4 +26,6 @@ public class UserController {
 	}
 	public void hello() {
 	}
+	public void add( ) {
+}
 }
