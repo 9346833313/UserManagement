@@ -32,11 +32,17 @@ public class UserController {
 
 	}
 
+
 	public void hello() {
 	}
 	public void add( ) {
 }
 
 	
+
+
+	public ResponseEntity<?> update(){
+		return null;
+	}
 
 }
