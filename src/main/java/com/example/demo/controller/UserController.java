@@ -1,6 +1,5 @@
 package com.example.demo.controller;
 
-
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -9,15 +8,17 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class UserController {
 
-	
-
-	public ResponseEntity<?> delete(){
+	public ResponseEntity<?> delete() {
 		return null;
 	}
 
-	public ResponseEntity<?> update(){
+	public ResponseEntity<?> update() {
 		return null;
 	}
 
-	
+	public ResponseEntity<?> add() {
+		return null;
+
+	}
+
 }
