@@ -51,6 +51,10 @@ import com.example.demo.service.StudentService;
 	        studentService.deleteStudent(id);
 	        return ResponseEntity.noContent().build();
 	    }
+	    
+	    public void getStudent() {
+	    	
+	    }
 	}
 
 
