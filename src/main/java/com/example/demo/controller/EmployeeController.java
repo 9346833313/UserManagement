@@ -49,5 +49,9 @@ public class EmployeeController {
 		employeeService.deleteEmployeeById(id);
 		return new ResponseEntity<String>("sucessfully deleted", HttpStatus.OK);
 	}
+	
+	public void getEmplyee() {
+		
+	}
 }
 
