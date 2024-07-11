@@ -23,12 +23,7 @@ public class UserController {
 
 	}
 
-	public ResponseEntity<?> get() {
-
-		return null;
-
-	}
-
+	@GetMapping
 	public ResponseEntity<?> getById() {
 
 		return null;
