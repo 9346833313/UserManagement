@@ -14,6 +14,9 @@ public class UserController {
 	public ResponseEntity<?> delete(){
 		return null;
 	}
-
+public ResponseEntity<?>add() {
+	return null;
+	
+}
 	
 }
