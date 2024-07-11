@@ -23,4 +23,16 @@ public class UserController {
 
 	}
 
+	public ResponseEntity<?> get() {
+
+		return null;
+
+	}
+
+	public ResponseEntity<?> getById() {
+
+		return null;
+
+	}
+
 }
